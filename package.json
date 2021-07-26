@@ -1,0 +1,24 @@
+{
+  "name": "joshan-ventures-website",
+  "version": "1.0.0",
+  "description": "joshan ventures provides a wide range of services ranging from veterinary, sales of dogs, sales of day-old chicks, sales of dog foods, fumigation to catering, small chops, food delivery, event planning and decoration",
+  "main": "index.js",
+  "scripts": {
+    "start": "cd client && npm start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "veterinary",
+    "sales of dogs",
+    "sales of day old chicks",
+    "sales of dog foods",
+    "fumigation",
+    "catering",
+    "small chops",
+    "food delivery",
+    "event planning",
+    "event decoration"
+  ],
+  "author": "Okpegboro Michael Joseph",
+  "license": "MIT"
+}
